@@ -1,0 +1,4 @@
+---
+services:
+  jenkins:
+    image: jenkins
