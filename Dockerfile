@@ -1,5 +1,8 @@
+# Updated by Stephen, because he rules
 # Use the official Jenkins LTS image as a base
 FROM jenkins/jenkins:lts
+
+# Hello world
 
 # Switch to root user to install additional dependencies
 USER root
